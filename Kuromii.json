@@ -1,0 +1,254 @@
+{
+  "name": "Kuromii",
+  "description": "Kuromi Theme (For Femboys)",
+  "version": "1",
+  "authors": [
+    {
+      "name": "YuhMuva#1799",
+      "id": "359111312418275349"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "CHAT_BACKGROUND": [
+      "#2D2726",
+      "#2D2726"
+    ],
+    "HEADER_PRIMARY": [
+      "#6F5B94",
+      "#6F5B94"
+    ],
+    "HEADER_SECONDARY": [
+      "#6F5B94",
+      "#6F5B94"
+    ],
+    "TEXT_NORMAL": [
+      "#BF91C5",
+      "#BF91C5"
+    ],
+    "TEXT_MUTED": [
+      "#6F5B94",
+      "#6F5B94"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D382BD",
+      "#D382BD"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#423567",
+      "#423567"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#D59BC5",
+      "#D59BC5"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#6F5B94",
+      "#6F5B94"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#B3ADBC",
+      "#B3ADBC"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#B3ADBC",
+      "#B3ADBC"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#FCF6D2",
+      "#FCF6D2"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#F5DFEF",
+      "#F5DFEF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FDFDE3",
+      "#F7FDFC"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#F5DFEF",
+      "#F7FDFC"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#F5DFEF",
+      "#F5DFEF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FCF6D2",
+      "#FCF6D2"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FCF6D2",
+      "#FCF6D2"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#FCF6D2",
+      "#F5DFEF"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#FCF6D2",
+      "#FCF6D2"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent",
+      "#E892C6"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#E892C6"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent",
+      "#E892C6"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#E892C6",
+      "#F7FDFC"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "TEXT_LINK": [
+      "#984C31",
+      "#4A2B44"
+    ],
+    "KEYBOARD": [
+      "#F5DFEF",
+      "#F5DFEF"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F5DFEF",
+    "PRIMARY_200": "#F5DFEF",
+    "PRIMARY_300": "#F5DFEF",
+    "PRIMARY_360": "#F5DFEF",
+    "PRIMARY_400": "#E892C6",
+    "PRIMARY_500": "#E892C6",
+    "PRIMARY_600": "#F5DFEF",
+    "PRIMARY_630": "#E892C6",
+    "PRIMARY_700": "#F5DFEF",
+    "PRIMARY_800": "#FCF6D2",
+    "BRAND_260": "#F5DFEF",
+    "BRAND_300": "#F5DFEF",
+    "BRAND_330": "#F5DFEF",
+    "BRAND_345": "#F5DFEF",
+    "BRAND_360": "#F2BBDC",
+    "BRAND_400": "#F5DFEF",
+    "BRAND_430": "#F2BBDC",
+    "BRAND_460": "#F2BBDC",
+    "BRAND_500": "#E892C6",
+    "BRAND_530": "#E892C6",
+    "BRAND_560": "#E892C6",
+    "BRAND_600": "#E892C6",
+    "BRAND_630": "#F5DFEF",
+    "BRAND_660": "#E06CA0",
+    "BRAND_700": "#E06CA0",
+    "RED_260": "#F5DFEF",
+    "RED_300": "#F5DFEF",
+    "RED_330": "#F5DFEF",
+    "RED_345": "#F5DFEF",
+    "RED_360": "#F2BBDC",
+    "RED_400": "#F2BBDC",
+    "RED_430": "#F2BBDC",
+    "RED_460": "#F2BBDC",
+    "RED_500": "#E892C6",
+    "RED_530": "#E892C6",
+    "RED_560": "#E892C6",
+    "RED_600": "#E892C6",
+    "RED_630": "#E06CA0",
+    "RED_660": "#E06CA0",
+    "RED_700": "#E06CA0",
+    "ORANGE_260": "#F5DFEF",
+    "ORANGE_300": "#F5DFEF",
+    "ORANGE_330": "#F5DFEF",
+    "ORANGE_345": "#F5DFEF",
+    "ORANGE_360": "#F2BBDC",
+    "ORANGE_400": "#F2BBDC",
+    "ORANGE_430": "#F2BBDC",
+    "ORANGE_460": "#F2BBDC",
+    "ORANGE_500": "#E892C6",
+    "ORANGE_530": "#E892C6",
+    "ORANGE_560": "#E892C6",
+    "ORANGE_600": "#E892C6",
+    "ORANGE_630": "#E06CA0",
+    "ORANGE_660": "#E06CA0",
+    "ORANGE_700": "#E06CA0",
+    "YELLOW_260": "#F5DFEF",
+    "YELLOW_300": "#F5DFEF",
+    "YELLOW_330": "#F5DFEF",
+    "YELLOW_345": "#F5DFEF",
+    "YELLOW_360": "#F2BBDC",
+    "YELLOW_400": "#F2BBDC",
+    "YELLOW_430": "#F2BBDC",
+    "YELLOW_460": "#F2BBDC",
+    "YELLOW_500": "#E892C6",
+    "YELLOW_530": "#E892C6",
+    "YELLOW_560": "#E892C6",
+    "YELLOW_600": "#E892C6",
+    "YELLOW_630": "#E06CA0",
+    "YELLOW_660": "#E06CA0",
+    "YELLOW_700": "#E06CA0",
+    "GREEN_260": "#F5DFEF",
+    "GREEN_300": "#F5DFEF",
+    "GREEN_330": "#F5DFEF",
+    "GREEN_345": "#F5DFEF",
+    "GREEN_360": "#F2BBDC",
+    "GREEN_400": "#F2BBDC",
+    "GREEN_430": "#F2BBDC",
+    "GREEN_460": "#F2BBDC",
+    "GREEN_500": "#E892C6",
+    "GREEN_530": "#E892C6",
+    "GREEN_560": "#E892C6",
+    "GREEN_600": "#E892C6",
+    "GREEN_630": "#E06CA0",
+    "GREEN_660": "#E06CA0",
+    "GREEN_700": "#E06CA0",
+    "BLUE_260": "#F5DFEF",
+    "BLUE_300": "#F5DFEF",
+    "BLUE_330": "#F5DFEF",
+    "BLUE_345": "#F5DFEF",
+    "BLUE_360": "#F2BBDC",
+    "BLUE_400": "#F2BBDC",
+    "BLUE_430": "#F2BBDC",
+    "BLUE_460": "#F2BBDC",
+    "BLUE_500": "#E892C6",
+    "BLUE_530": "#E892C6",
+    "BLUE_560": "#E892C6",
+    "BLUE_600": "#E892C6",
+    "BLUE_630": "#E06CA0",
+    "BLUE_660": "#E06CA0",
+    "BLUE_700": "#E06CA0"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://cdn.discordapp.com/attachments/857863120970317867/1089017902386135112/253ED8E8-42DB-4A8B-9833-757AB2CDD056.jpg",
+    "alpha": 1.0
+  },
+  "color": "#fdc0d2"
+}
