@@ -47,12 +47,12 @@
       "#6F5B94"
     ],
     "BACKGROUND_PRIMARY": [
-      "#2F2A42",
-      "#2F2A42"
+      "#474063",
+      "#474063"
     ],
     "BACKGROUND_SECONDARY": [
-      "#2D2726",
-      "#2D2726"
+      "#474063",
+      "#474063"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#423567",
@@ -247,7 +247,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/857863120970317867/1089017902386135112/253ED8E8-42DB-4A8B-9833-757AB2CDD056.jpg",
+    "url": "https://cdn.discordapp.com/attachments/857863120970317867/1089391486484877432/1E250865-1F39-4C9D-A510-9AB32231FF65.jpg",
     "alpha": 1.0
   },
   "color": "#fdc0d2"
