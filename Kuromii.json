@@ -27,8 +27,8 @@
       "#D59BC5"
     ],
     "TEXT_MUTED": [
-      "#6F5B94",
-      "#6F5B94"
+      "#FAE89B",
+      "#FAE89B"
     ],
     "INTERACTIVE_NORMAL": [
       "#D382BD",
@@ -83,32 +83,32 @@
       "#423567"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#B3ADBC",
-      "#B3ADBC"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#B3ADBC",
-      "#B3ADBC"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#B3ADBC",
-      "#B3ADBC"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#B3ADBC",
-      "#B3ADBC"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#B3ADBC",
-      "#B3ADBC"
+      "#6F5B94",
+      "#6F5B94"
     ],
     "BACKGROUND_MENTIONED": [
       "#F2BBDC",
       "#F2BBDC"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#CAC792",
-      "#CAC792"
+      "#FAE89B",
+      "#FAE89B"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "transparent",
@@ -135,8 +135,8 @@
       "#F2BBDC"
     ],
     "TEXT_LINK": [
-      "#CAC792",
-      "#CAC792"
+      "#FAE89B",
+      "#FAE89B"
     ],
     "KEYBOARD": [
       "#423567",
@@ -153,7 +153,7 @@
     "PRIMARY_600": "#F5DFEF",
     "PRIMARY_630": "#E892C6",
     "PRIMARY_700": "#F5DFEF",
-    "PRIMARY_800": "#FCF6D2",
+    "PRIMARY_800": "#6F5B94",
     "BRAND_260": "#F5DFEF",
     "BRAND_300": "#F5DFEF",
     "BRAND_330": "#F5DFEF",
