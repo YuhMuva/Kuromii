@@ -16,19 +16,19 @@
     ],
     "HEADER_PRIMARY": [
       "#D59BC5",
-      "#D59BC5"
+      "#181622"
     ],
     "HEADER_SECONDARY": [
       "#D382BD",
-      "#D382BD"
+      "#181622"
     ],
     "TEXT_NORMAL": [
       "#FFDBF1",
-      "#FFDBF1"
+      "#181622"
     ],
     "TEXT_MUTED": [
       "#FAE89B",
-      "#FAE89B"
+      "#181622"
     ],
     "INTERACTIVE_NORMAL": [
       "#D382BD",
@@ -136,7 +136,7 @@
     ],
     "TEXT_LINK": [
       "#FAE89B",
-      "#FAE89B"
+      "#181622"
     ],
     "KEYBOARD": [
       "#423567",
